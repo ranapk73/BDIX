@@ -148,9 +148,9 @@ https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" , Star Jalsha HD
 http://ztvuk.com:8080/live/y993slzLSu/OmKCdASQJI/64405.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" , Zee Bangla HD
-http://ztvuk.com:8080/live/y993slzLSu/OmKCdASQJI/17753.m3u8
+https://z5ams.akamaized.net/zeebanglahd/index.m3u8?hdnts=st=1637735009~exp=1637738009~acl=/*~hmac=0d81590589ac25db548cdaa0abb7e6714c5d6a043995919db84956c504934d13
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8JtVKLfGi9aXNnwjRNKZjhOArwEqO8K2mxg&usqp=CAU" , bein Sports 1
-http://ztvuk.com:8080/live/y993slzLSu/OmKCdASQJI/12451.m3u8
+http://f2.aminouras.xyz/live/978488877001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath (jio)
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" , Colors Bangla (akamai)
