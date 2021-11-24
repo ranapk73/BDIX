@@ -149,6 +149,8 @@ https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43594
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" , Zee Bangla HD
 http://62.210.125.58:25461/live/carter/GUV1bMq2VK/3409.m3u8?token=TURYAhZYEAwSAgVUW1ACVA1WAQBTCgAFAwdWBV8JV1wPUFRQUglQUlNGTxBLF0AGVA9uD1IbCQUFA10ZREwVAEQ5WQdHChAEAlVRAAlBHkFBC1wDFAMDGhNDDVFEA0RUAlMCVkccEFNIEAZAVgJePFEHRw9VXBEMX0YIWUobCQtpAlUOBF5WFApGUxAUQVsQRUALCENVXxoTUQ1BFFgSABRcElJTAAEUHEYAXU0NRhFMQAtEdH0RGhNWHEEDVxUMWQgSWUddAUMIRk8QURBtEVARRRRTWF5TQxFeF1cbSkdbB0g8Bl9cWFUHF1tXDUFBD0AEVhQVEVteXQ1BCUs5FV8CEllHAQAGCVRBTw==
+EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" , Zee Bangla Link2
+https://z5ams.akamaized.net/zeebanglahd/index.m3u8?hdnts=st=1637746317~exp=1637749317~acl=/*~hmac=deaa9144df7cb15fd226732771c71a4eecbaf74b8a8837f92644ed8ced190b48
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8JtVKLfGi9aXNnwjRNKZjhOArwEqO8K2mxg&usqp=CAU" , bein Sports 1
 http://f2.aminouras.xyz/live/978488877001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath (jio)
