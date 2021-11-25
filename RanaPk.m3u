@@ -82,7 +82,7 @@ http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 1
 http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 2
-http://103.77.188.27:1935/live/gtv/chunklist_w435269432.m3u8
+http://103.78.255.178:8080/gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 3
 http://103.78.255.178:8080/gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 4
