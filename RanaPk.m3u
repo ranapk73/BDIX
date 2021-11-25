@@ -88,7 +88,7 @@ http://103.70.140.27:8080/hls/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 4
 http://103.77.188.27:1935/live/gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 5
-http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , BTV Chattagram (BDIX6)
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-logo="https://mcmscache.epapr.in/post_images/website_350/post_15707961/thumb.jpg" , BTV (BDIX6)
