@@ -183,8 +183,6 @@ http://lb4.d2h.top:8080/live/993300/993300/167617.m3u8?token=GhMNBEZcR1gRVQABVwV
 http://103.159.4.38:8080/IN-BANGLA-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla Link2
 http://itcare.ddns.net:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8JtVKLfGi9aXNnwjRNKZjhOArwEqO8K2mxg&usqp=CAU" , bein Sports 1
-http://f2.aminouras.xyz/live/978488877001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath Link2
@@ -250,6 +248,8 @@ http://93.157.62.180/Supersport3/index.m3u8
 http://93.157.62.180/Supersport5/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" , Bein Sport 2
 http://23.88.39.74:80/live/69854211/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8JtVKLfGi9aXNnwjRNKZjhOArwEqO8K2mxg&usqp=CAU" , bein Sports 1
+http://d7.anfalrou.xyz/live/978488877001/index.m3u8
 #EXTINF:-1 tvg-logo="Logo N/a" , Bein Sport 6
 http://55.banrhfour.xyz.global.prod.fastly.net:80/live/1515000000/index.m3u8
 #EXTINF:-1 tvg-logo="New Logo" , Bt SportHD
@@ -312,7 +312,6 @@ http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" , HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjwGg2XyMGxFITXm_54WBnNF_zBYcYw9n1E_PlCxoo=s900-c-k-c0x00ffffff-no-rj" , 22. KTV Bangla
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" , 43.MAQ TV
