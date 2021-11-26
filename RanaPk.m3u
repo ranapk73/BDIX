@@ -191,6 +191,9 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" , Colors Bangla (akamai)
 http://jo123.biz/jweb/m3u8.php?c=Colors_Bengali_HD&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" , Enter 10 Movies
+http://jo123.biz/jweb/m3u8.php?c=Enterr_10&=600&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" , Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-logo="https://dnc.techtunes.io/tDrive/tuner/kripaparthi/495354/Peace-TV-Bangla.jpg" , 24. Peace TV Bangla
