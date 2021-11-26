@@ -180,7 +180,7 @@ https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha HD
 http://lb4.d2h.top:8080/live/993300/993300/167617.m3u8?token=GhMNBEZcR1gRVQABVwVVDVIBV1FYXF4IBlMPUFIJBlIEVVNcDAFdV1ZEGBoXEhZRBVtrXgVGAgFUUQEFBBQUFhJUFzpcUEdYEVAGCVBSRhhGQl1aBEYCAE5ER11XGgxBUABRUQMWSUBWHkBdFggFWDtSUUEIB10SWAhCWF8UFAwPbgEAWFULBhFcFglGSkZdF0YWDQ8RVFxORFVdR0pXFwQTX0cEAlVSEUoWWwsTCkAWTxYNQyZ8Ek5EUkxHXVgQCF4LRw8WCFFGXhYURg8XaxZTR0MTAVldBxQVDhEIFE9DXAQdalcKDF0DV0wNCQpHRgwWBkNIGl0NCF5AXEppEwhVR18XBVRWAFYWRQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla HD
-https://z5ams.akamaized.net/zeebanglahd/index.m3u8?hdnts=st=1637939003~exp=1637942003~acl=/*~hmac=68934408555a4717166102fad6480e60c5871a5b22634857e7c7ca11601c9713
+http://103.159.4.38:8080/IN-BANGLA-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla Link2
 http://jo123.biz/jweb/m3u8.php?c=Zee_Bangla&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8JtVKLfGi9aXNnwjRNKZjhOArwEqO8K2mxg&usqp=CAU" , bein Sports 1
