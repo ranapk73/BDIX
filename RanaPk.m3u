@@ -29,7 +29,7 @@ https://bd.jagobd.com:44/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" , Bijoy TV
 https://rhridoy136.shortcm.li/bijoytv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",71 TV
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png",71 TV
 http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" , Asian TV 
 http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
@@ -48,8 +48,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="Logo N/a" , Channel H
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channelhtv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" , Discovery Kids
-https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="New Logo" , Roal TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="Logo N/A" , Nakshi TV
@@ -74,7 +72,7 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HplreU.jpg" , Nandan TV
 http://nandansyst.com/hls/nandan.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778" , 8. I TV
+#EXTINF:-1 tvg-logo="http://162.244.81.142:1935" , 8. I TV
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png" , Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
@@ -457,3 +455,10 @@ http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zs6rjx0wjj0lki1/92.7.jpg?raw=1" , Big FM (92.7)
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+
+
+
+_________Sports Update_______
+#EXTINF:-1 tvg-logo="xx" group-title="LiVe Stports", BAN VS PAK
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1638114654/ei/_lCjYZyPDq2DjuMPg4q50AU/ip/103.84.245.0/id/x8yERRZVSGU.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr4---sn-nu5gb5ux-q5je.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/bd/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/3190/mh/HD/mm/44/mn/sn-nu5gb5ux-q5je/ms/lva/mv/m/mvi/4/pl/24/rmhost/rr3---sn-nu5gb5ux-q5je.googlevideo.com/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1638092668/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIhAM4ZMXRviHkB2NXvKejsqbgzU4hNldjY-wXryUmgshySAiBltfpZCLGANg1i1uBuZr2BAywXUjYAKBC8_pYliGadaA%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,rmhost/lsig/AG3C_xAwRQIhAMBFPF62Y3cyaXHN-YDS0BFBJGIsABRvhYTOoHGpniOoAiBE1APwDN3VUQQxMI4a4UpyV4966mC4uoFsa8sUqJEDkw%3D%3D/playlist/index.m3u8
+
