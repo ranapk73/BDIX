@@ -199,11 +199,11 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath Link2
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" , Colors Bangla (akamai)
-https://tvstream.space/jtv/jiioo.php?c=Colors_Bengali_HD&=800&e=.m3u8
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" , Enter 10 Movies
 http://jo123.biz/jweb/m3u8.php?c=Enterr_10&=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" , Enter 10 Bangla
-
+http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" , Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-logo="https://dnc.techtunes.io/tDrive/tuner/kripaparthi/495354/Peace-TV-Bangla.jpg" , Peace TV Bangla
@@ -215,7 +215,7 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://r7.pngwing.com/path/238/54/383/indian-premier-league-dd-sports-television-dd-national-cricket-39ee3fc39c581d7670adc32a6a400f2e.png" , DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Na" , jio Cricket HD
-http://jo123.biz/jweb/m3u8.php?c=Jio_Cricket_Hindi&q=600&e=.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Cricket_Hindi&q=400&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" , Ten Cricket
 http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" , PTV Sports
