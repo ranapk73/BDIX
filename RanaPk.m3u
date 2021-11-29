@@ -247,7 +247,7 @@ https://smart-tv.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" , Bein Sport 2
 https://smart-tv.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
-http://88.barouhn.xyz.global.prod.fastly.net/live/88824257001/index.m3u8?t=0DVJ4gXs2ayQVlH8yt5hoQ&e=1638137033
+http://88.barouhn.xyz.global.prod.fastly.net/live/88824257001/index.m3u8
 #EXTINF:-1 tvg-logo="Logo N/a" , beiN Sport 6
 http://55.bangiroua.xyz/live/788550011/index.m3u8?t=SjmJwwEHioJFXfu_Vy3lAA&e=1638137363
 #EXTINF:-1 tvg-logo="New Logo" , Bt SportHD
@@ -308,6 +308,8 @@ http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=600&e=junk.m3u8
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" , Discovery Kids (multitvsolution)
 https://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Gubbare?file=Gubbare-cl.png" , GUBBERE KIDS
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" , Sony Yay (jio)
 http://jo123.biz/jweb/m3u8.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xeanFZ7.png" , Aniplus
