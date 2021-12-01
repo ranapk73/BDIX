@@ -110,7 +110,7 @@ http://103.106.2.149:13456/btv_ctg.m3u8
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , BTV World (BDIX6)
 http://103.106.2.149:13456/btv_world.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" , 9. DeepTo TV
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/1zdy7v5.jpg" , 9. DeepTo TV
 https://cutt.ly/DeepT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" , 10. Duronto TV
 http://103.70.140.27:8080/hls/duronto.m3u8
