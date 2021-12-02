@@ -3,9 +3,9 @@
 http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" , Bangla Tv
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo=”https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png” , News 24
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/PbGS418.png” , News 24
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo=”https://i.imgur.com/4imblNY.jpg" , Mohona TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" , Mohona TV
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=”https://m.imgur.com/bahWhBG?r.png" , MY TV Bangla
 
@@ -235,7 +235,7 @@ https://tvstream.space/jtv/XxxjjjX.php?c=Ten2_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png" , Sony Ten 3 (FPM)
 https://tvstream.space/jtv/XxxjjjX.php?c=Ten3_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" , Sony Six HD (FPM)
-https://tvstream.space/jtv/Xxxjjj.php?c=Six_HD&=800&e=.m3u8
+https://tvstream.space/jtv/XxxjjjX.php?c=Six_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , Star Sports 1 HD
 https://mhdtvworld.co.in/red/xxxx.php?id=1998&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , Star Sports 2 HD
@@ -301,7 +301,7 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" , Pogo (jio)
 http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" , Nick Hindi HD
-https://tvstream.space/jtv/Xxxjjj.php?c=Nick_Hindi&=800&e=.m3u8
+https://tvstream.space/jtv/XxxjjjX.php?c=Nick_Hindi&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAuAuvB.png" , EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332" , 9XM
