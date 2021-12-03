@@ -229,17 +229,17 @@ https://236s.short.gy/DreamTV/PTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" , Sky Sports Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" , Sony Ten 1 (FPM)
-https://tvstream.space/jtv/XxxjjjX.php?c=Ten_HD&=800&e=.m3u8
+https://tvstream.space/jtv/sss?c=Ten_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" , Sony Ten 2 (FPM)
-https://tvstream.space/jtv/XxxjjjX.php?c=Ten2_HD&=800&e=.m3u8
+https://tvstream.space/jtv/sss?c=Ten2_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png" , Sony Ten 3 (FPM)
-https://tvstream.space/jtv/XxxjjjX.php?c=Ten3_HD&=800&e=.m3u8
+https://tvstream.space/jtv/sss?c=Ten3_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" , Sony Six HD (FPM)
-https://tvstream.space/jtv/XxxjjjX.php?c=Six_HD&=800&e=.m3u8
+https://tvstream.space/jtv/sss?c=Six_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , Star Sports 1 HD
-https://mhdtvworld.co.in/red/xxxx.php?id=1998&e=.m3u8
+https://tvstream.space/jtv/sss?id=1998&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , Star Sports 2 HD
-https://mhdtvworld.co.in/red/xxxx.php?id=1999&e=.m3u8
+https://tvstream.space/jtv/sss?id=1999&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png" , Willow HD
 https://mhdtvworld.co.in/red/xxxx.php?id=2006&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" , Astro Cricket
@@ -307,7 +307,7 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" , Pogo (jio)
 http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" , Nick Hindi HD
-https://tvstream.space/jtv/XxxjjjX.php?c=Nick_Hindi&=800&e=.m3u8
+https://tvstream.space/jtv/sss.php?c=Nick_Hindi&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAuAuvB.png" , EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332" , 9XM
