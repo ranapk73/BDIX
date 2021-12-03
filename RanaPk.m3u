@@ -229,13 +229,13 @@ https://236s.short.gy/DreamTV/PTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" , Sky Sports Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" , Sony Ten 1 (FPM)
-https://tvstream.space/jtv/sss?c=Ten_HD&=800&e=.m3u8
+https://tvstream.space/jtv/sss.php?c=Ten_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" , Sony Ten 2 (FPM)
-https://tvstream.space/jtv/sss?c=Ten2_HD&=800&e=.m3u8
+https://tvstream.space/jtv/sss.php?c=Ten2_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png" , Sony Ten 3 (FPM)
-https://tvstream.space/jtv/sss?c=Ten3_HD&=800&e=.m3u8
+https://tvstream.space/jtv/sss.php?c=Ten3_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" , Sony Six HD (FPM)
-https://tvstream.space/jtv/sss?c=Six_HD&=800&e=.m3u8
+https://tvstream.space/jtv/sss.php?c=Six_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , Star Sports 1 HD
 https://tvstream.space/jtv/sss?id=1998&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , Star Sports 2 HD
