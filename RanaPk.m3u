@@ -226,8 +226,8 @@ https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Cricket_Hindi&q=400&e=junk.
 http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" , PTV Sports
 https://236s.short.gy/DreamTV/PTV.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" , Sky Sports Cricket
-https://mhdtvworld.co.in/red/xXtvoxx.php?id=2010&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" , Sky Sports Cricket
+http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" , Sony Ten 1 (FPM)
 https://tvstream.space/jtv/XxxjjjX.php?c=Ten_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" , Sony Ten 2 (FPM)
@@ -240,6 +240,12 @@ https://tvstream.space/jtv/XxxjjjX.php?c=Six_HD&=800&e=.m3u8
 https://mhdtvworld.co.in/red/xxxx.php?id=1998&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , Star Sports 2 HD
 https://mhdtvworld.co.in/red/xxxx.php?id=1999&e=.m3u8
+#EXTINF:-1 tvg-logo="https://m.imgur.com/NeOvSNV?r" , Willow HD
+https://mhdtvworld.co.in/red/xxxx.php?id=2006&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" , Astro Cricket
+https://cutt.ly/Astra_crk
+#EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/android-chrome-192x192-1.png" , A Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png" , Super Premier League
 http://cro.hockeynews.club/live/1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" , Super Sports 1
@@ -250,12 +256,12 @@ http://cro.hockeynews.club/live/1/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vowBrPg.png" , Super Sports 5
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" , bein Sports 1
-https://smart-tv.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" , Bein Sport 2
-https://smart-tv.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" , beiN Sports 1
+http://g16.aminouras.xyz/live/978488877001/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" , beiN Sport 2
+http://g17.aminouras.xyz/live/10011244/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
-http://d17.amaniyouhra.xyz/live/88824257001/index.m3u8
+http://g9.aminouras.xyz/live/88824257001/index.m3u8
 #EXTINF:-1 tvg-logo="Logo N/a" , beiN Sport 6
 
 #EXTINF:-1 tvg-logo="New Logo" , Bt SportHD
