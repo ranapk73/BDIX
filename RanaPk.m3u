@@ -262,14 +262,14 @@ http://cro.hockeynews.club/live/1/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" , beiN Sports 1
 https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" , beiN Sport 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" , beiN Sports 2
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
 https://cutt.ly/Bp1
 #EXTINF:-1 tvg-logo="Logo N/a" , beiN Sport 6
 
-#EXTINF:-1 tvg-logo="New Logo" , Bt SportHD
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54206.m3u8
+#EXTINF:-1 tvg-logo="New Logo" , Bt Sport 2
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s320/Abu-Dhabi-Sports-1_o.jpg" , Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-2-5918.jpg" , Ad Sports 2
