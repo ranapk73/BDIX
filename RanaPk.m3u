@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_.jpg" group-title="Ertugrul Coming Soon", Ertugrul History
+https://cutt.ly/oYEbAUq
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , 1. BTV World
 http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" , Bangla Tv
@@ -460,8 +462,6 @@ http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zs6rjx0wjj0lki1/92.7.jpg?raw=1" , Big FM (92.7)
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_.jpg" group-title="Ertugrul Coming Soon" , Ertugrul History
-https://cutt.ly/oYEbAUq
 
 
 
@@ -479,4 +479,4 @@ _________RANAPK LAST Update_______
 
 TG: https://t.me/ranapk73
 
-_____END
+_____END___
