@@ -266,9 +266,9 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
 http://e5.aminouras.xyz/live/6161655001/index.m3u8
-#EXTINF:-1 tvg-logo="Logo N/a" , beiN Sport 6
+#EXTINF:-1 tvg-logo="Logo N/a" , beiN Sports 6
 
-#EXTINF:-1 tvg-logo="New Logo" , Bt Sport 2
+#EXTINF:-1 tvg-logo="New Logo" , Bt Sports 2
 https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s320/Abu-Dhabi-Sports-1_o.jpg" , Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -462,6 +462,8 @@ http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_.jpg" group-title="ERTUGRUL HISTORY",
+https://video.fdac11-2.fna.fbcdn.net/v/t42.1790-2/10000000_657441521939070_7610073949223675321_n.mp4?_nc_cat=105&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjUyMywicmxhIjoxMzgzLCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=1fPCfmlDgL4AX9_T6rc&_nc_rml=0&_nc_ht=video.fdac11-2.fna&oh=2e6035ccfe62e072652cb458ed81bd6c&oe=61B1EC5A
 
 _________Sports Update_______
 #EXTINF:-1 tvg-logo="xx" group-title="M3U FILE BY RANAPK",
