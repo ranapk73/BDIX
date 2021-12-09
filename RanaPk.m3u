@@ -178,6 +178,8 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" , Sony MAX (pk)
 http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" , Sony Max 2
+https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=Sony_MAX2&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Hungama_Play?file=HungamaPlay.png" , Hungama Music
 https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.imgur.com/LeIa06D.png" , ABP Anando
@@ -206,7 +208,7 @@ http://208.86.19.21:80/906.stream/index.m3u8
 
 103.159.4.38:8080/IN-BANGLA-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla Link2
-http://208.86.19.21:80/906.stream/index.m3u8
+https://snehtv.in1.bitmana.io/z5api/z5api.php?c=0-9-zeebangla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath Link2
@@ -225,7 +227,7 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/ma
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" , DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Na" , jio Cricket HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/39/c7/6639c7f00ca2acb1e2fd8b61cb11cfb4.jpg" , jio Cricket HD
 https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=Jio_Cricket_Hindi&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" , Ten Cricket
 http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
@@ -300,8 +302,8 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Nick_Junior&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" , Disney Channel (FPM)
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" , Discovery Kids (multitvsolution)
-https://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" , Discovery Kids 2
+https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=Discovery_Kids_2&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Gubbare.jpg/revision/latest?cb=20200809181202" , GUBBARE KIDS
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" , Sony Yay
@@ -348,8 +350,6 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" , Zee Smile
 http://priyankjivani.ml/?c=0-9-zeebanglacinema
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" , Sony Max 2
-http://62.210.99.88:25461/carter/GUV1bMq2VK/197?token=TURYAhZYEAwSAQJWWgUCWlZaBl4AWAEPUwtSVFFfUQRQVAFSVAEHUgNGTxBLF0AGVA9uD1IbCQcIBEgXE0oDF2kPVEFfEgAEAVZRAxpPEBdcD1REDAgFBQYCUwVfDlJJFBZZB0cKEAcFV1sLGk8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0ABRBobWkVBEV5bE1UKSRQEWRcXUUZTEl5BCwpREE8XAV4TWE1BTxMJRnciG0pHUx5EBgtDW1leRlkQTBAQTxcLQjlEXEBCQ1YFWANLRF8UVxJPR11TTm8HDFxWBlEXXA1fFRQDEQMBEUgXC1YIDEIJQjwVWVYUCkZSBwtVC0FI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" , MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Public_Music_Kannada_Channel_Logo.jpg/200px-Public_Music_Kannada_Channel_Logo.jpg" , Public Music
