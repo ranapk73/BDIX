@@ -201,7 +201,8 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla HD
 http://208.86.19.21:80/906.stream/index.m3u8
-http://103.159.4.38:8080/IN-BANGLA-4/index.m3u8
+
+103.159.4.38:8080/IN-BANGLA-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla Link2
 https://cutt.ly/ZeeBa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath
@@ -244,10 +245,9 @@ http://208.86.19.21:80/724.stream/index.m3u8
 http://208.86.19.21:80/715.stream/index.m3u8
 https://tvstream.space/jtv/sss?id=1999&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png" , Willow HD
-https://mhdtvworld.co.in/red/zzz.php?id=2016&e=.m3u8
+http://208.86.19.21:80/731.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" , Astro Cricket
 http://208.86.19.21:80/720.stream/index.m3u8
-https://cutt.ly/Astra_crk
 #EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/android-chrome-192x192-1.png" , A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png" , Super Premier League
