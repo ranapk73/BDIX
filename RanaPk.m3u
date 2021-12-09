@@ -149,13 +149,13 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" , SONY HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" , Sony Max HD
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=Sony_Max_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" , Sony Pal
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6626/index.m3u8
+https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=Sony_Pal&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="http://boxcinemedia.com/assets/img/logo.png" , Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6MLjY6.png" , Bollywood Premier
@@ -195,7 +195,7 @@ http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="New Logo" , BBo HD
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha HD
-https://cutt.ly/Jalsha
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha
 https://cutt.ly/Jalshaa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" , Jalsha Movies HD
@@ -226,7 +226,7 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" , DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Na" , jio Cricket HD
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Cricket_Hindi&q=400&e=junk.m3u8
+https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=Jio_Cricket_Hindi&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" , Ten Cricket
 http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" , PTV Sports
