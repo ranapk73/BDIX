@@ -119,7 +119,7 @@ http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , BTV World (BDIX6)
 http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" , DeepTo TV
-https://cutt.ly/DeepT
+http://208.86.19.21/609.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" , 10. Duronto TV
 http://103.70.140.27:8080/hls/duronto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" , 11. Duronto TV
