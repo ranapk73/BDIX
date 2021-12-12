@@ -269,8 +269,8 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
 http://e5.aminouras.xyz/live/6161655001/index.m3u8
-#EXTINF:-1 tvg-logo="Logo N/a" , beiN Sports 6
-
+#EXTINF:-1 tvg-logo="Logo N/a" , beiN Sports HD
+http://cdn3.cyclingnews.live/hls/W1.m3u8
 #EXTINF:-1 tvg-logo="New Logo" , Bt Sports 2
 https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s320/Abu-Dhabi-Sports-1_o.jpg" , Ad Sports 1
