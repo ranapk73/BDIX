@@ -146,16 +146,6 @@ http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" , Wow Chinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" , SONY HD
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" , Sony Max HD
-https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=Sony_Max_HD&q=600&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema
-http://208.115.215.42/ZEE_CInema_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema HD
-http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" , Sony Pal
-https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=Sony_Pal&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="http://boxcinemedia.com/assets/img/logo.png" , Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6MLjY6.png" , Bollywood Premier
@@ -180,14 +170,18 @@ https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" , Sony Max 2
 https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=Sony_MAX2&q=600&e=.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Hungama_Play?file=HungamaPlay.png" , Hungama Music
-https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://m.imgur.com/LeIa06D.png" , ABP Anando
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/B4U_Kadak?file=B4U_Kadak.jpeg" , Kadak Music
-https://live.hungama.com/linear/kadak-hits/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="New Logo" , Pop Pataka Music
-https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://nowhdtime.com.bd/uploads/tv_image/sm/sony-max.png" , Sony Max HD
+https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=Sony_Max_HD&q=600&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema HD
+http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" , Sony Pal
+https://snehtv.in1.bitmana.io/jiotv/snehjioox.php?c=Sony_Pal&q=600&e=.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" , Sony Sab
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6579/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" , SONY HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" , Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" , ZEE TV HD (pk)
@@ -315,6 +309,8 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Pogo_Hindi&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" , Nick Hindi
 https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Nick_Hindi&q=600&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" , Sonic Bangla
+https://cutt.ly/NickBD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAuAuvB.png" , EBS Kids
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332" , 9XM
@@ -327,6 +323,14 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_240p/index.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Zing&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png" , Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Hungama_Play?file=HungamaPlay.png" , Hungama Music
+https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.imgur.com/LeIa06D.png" , ABP Anando
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/B4U_Kadak?file=B4U_Kadak.jpeg" , Kadak Music
+https://live.hungama.com/linear/kadak-hits/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="New Logo" , Pop Pataka Music
+https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IpKuSbU.png" , AXN
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" , Star World
@@ -348,7 +352,7 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" , Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" , Zee Smile
-http://priyankjivani.ml/?c=0-9-zeebanglacinema
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" , MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Public_Music_Kannada_Channel_Logo.jpg/200px-Public_Music_Kannada_Channel_Logo.jpg" , Public Music
