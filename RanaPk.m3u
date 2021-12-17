@@ -191,7 +191,7 @@ http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="New Logo" , BBo HD
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha HD
-
+http://edge.thunderbd.com:8081/roarzone/30/chunks.m3u8?nimblesessionid=6937043&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAyMSA4OjQ0OjU0IEFNJmhhc2hfdmFsdWU9TGJOaUNTamJuTzNyMU9tZVdxazlvdz09JnZhbGlkbWludXRlcz0yJmlkPTU=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" , Jalsha Movies HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha
