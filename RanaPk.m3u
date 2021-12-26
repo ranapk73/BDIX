@@ -189,12 +189,12 @@ http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" , Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" , Zee Bolywood
-http://ukipptv.ddns.net/701.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" , Zee Bollywood
+http://208.86.19.21/701.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" , Star GolD HD
 http://208.86.19.21/717.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" , & Pictures SD
-http://ukipptv.ddns.net/705.stream/index.m3u8
+http://208.86.19.21/705.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" , Colors Cineplex HD
 http://208.86.19.21:80/735.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" , Sony Pal
