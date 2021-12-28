@@ -221,10 +221,6 @@ http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/30.m3u8?wmsAuthSi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla HD
 http://195.201.82.32:5001/play/a00z
 
-
-208.86.19.21:80/906.stream/index.m3u8
-
-103.159.4.38:8080/IN-BANGLA-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla Link2
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6636/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath
