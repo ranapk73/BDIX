@@ -219,6 +219,8 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha
 http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/30.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAyMSAxOjE5OjQyIFBNJmhhc2hfdmFsdWU9L3RWVzViOG4rNTJGSGt0ZjRseUpKdz09JnZhbGlkbWludXRlcz0yJmlkPTU=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla HD
+http://195.201.82.32:5001/play/a00z
+
 http://208.86.19.21:80/906.stream/index.m3u8
 
 103.159.4.38:8080/IN-BANGLA-4/index.m3u8
