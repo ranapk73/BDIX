@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="By the Grace of... (2021)" tvg-logo="http://38.143.137.105:8080/images/eb6a43fc0e5f860337f56ba37eb8ae9a.jpg" group-title="",By the Grace of... (2021)
+#EXTINF:-1 tvg-id="" tvg-name="By the Grace of... (2021)" tvg-logo="photos" group-title="Grpname",beiN Sports 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_.jpg" group-title="Ertugrul Coming Soon", Ertugrul History
 https://cdn1.wapka.io/005fd8/26f94131e5d9099742c4b2c745211164/2e01e17467891f7c933dbaa00e1459d23db3fe4f/facebook-undefinedsource_11_1.mp4
@@ -226,8 +226,8 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla HD
 http://195.201.82.32:5001/play/a00z
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla Link2
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6636/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla L2
+http://103.159.4.38:8080/IN-BANGLA-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath Link2
@@ -287,8 +287,12 @@ http://cro.hockeynews.club/live/1/chunks.m3u8?
 https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" , beiN Sports 2
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Football League", beiN Sports 1SD
+http://j3.aminouras.xyz/live/978488877005/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_2.png" group-title="Football League", beiN Sports 2SD
+http://j21.aminouras.xyz/live/10011244/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
-http://f13.aminouras.xyz/live/888242570018/index.m3u8
+http://j21.aminouras.xyz/live/888242570016/index.m3u8
 #EXTINF:-1 tvg-logo="Logo N/a" , beiN Sports HD
 http://cdn3.cyclingnews.live/hls/W1.m3u8
 #EXTINF:-1 tvg-logo="New Logo" , Bt Sports 2
