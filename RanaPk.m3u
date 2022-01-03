@@ -289,7 +289,7 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Football League", beiN Sports 1SD
 http://j3.aminouras.xyz/live/978488877005/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_2.png" group-title="Football League", beiN Sports 2SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_bein_sports_2.png" group-title="Football League", beiN Sports 2SD
 http://j21.aminouras.xyz/live/10011244/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
 http://j21.aminouras.xyz/live/888242570016/index.m3u8
