@@ -248,7 +248,7 @@ http://208.86.19.21:80/712.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m2eh8lp.png" , Sony Ten 3 HD
 http://208.86.19.21:80/713.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" , Sony Six HD
-http://208.86.19.21:80/740.stream/index.m3u8
+https://cutt.ly/Sixhd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , Star Sports 1 HD
 http://208.86.19.21:80/724.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" , Star Sports 2 HD
@@ -308,7 +308,7 @@ https://cutt.ly/CNbd
 #EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" , Shemaroo Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" , Nick JR
-https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Nick_Junior&q=600&e=.m3u8
+https://cutt.ly/NickJr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" , Disney Channel HD
 http://103.131.212.138:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" , Discovery Kids 2
@@ -322,15 +322,13 @@ http://45.126.83.51/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" , Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" , Pogo
-https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Pogo_Hindi&q=600&e=.m3u8
+https://cutt.ly/PogoH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" , Nick Hindi
-https://snehtv.in1.bitmana.io/snehjio/snehji0.php?c=Nick_Hindi&q=600&e=.m3u8
+https://cutt.ly/NickHindi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" , Sonic Bangla
 https://cutt.ly/sonicB
 #EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/sm/nick.png" , Nick Bangla
 https://cutt.ly/nickban
-#EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/sm/nick.png" , Nick SD Bangla
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332" , 9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/t4j8hjhh" , 9X Jalwa
