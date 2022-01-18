@@ -276,9 +276,9 @@ https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Football League", beiN Sports 1SD
 http://j3.aminouras.xyz/live/978488877005/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_bein_sports_2.png" group-title="Football League", beiN Sports 2SD
-http://j21.aminouras.xyz/live/10011244/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
-http://j21.aminouras.xyz/live/888242570016/index.m3u8
+
 #EXTINF:-1 tvg-logo="Logo N/a" , beiN Sports HD
 http://cdn3.cyclingnews.live/hls/W1.m3u8
 #EXTINF:-1 tvg-logo="New Logo" , Bt Sports 2
@@ -372,7 +372,7 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" , MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Public_Music_Kannada_Channel_Logo.jpg/200px-Public_Music_Kannada_Channel_Logo.jpg" , Public Music
-http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8?token=soheliptv01826655778
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" , Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFDmgJeM34DwUJKQC4cLTxR3YJyml-lx3xOA2HOmpxpkaDQ3pN&usqp=CAU" , Dil Se
