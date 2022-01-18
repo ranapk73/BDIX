@@ -208,7 +208,7 @@ http://103.159.4.38:5868/STARJALSHA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" , Jalsha Movies HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha
-http://edge.thunderbd.com:8081/roarzone/30/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIyIDQ6MzY6MTEgQU0maGFzaF92YWx1ZT1MdCtIMnZuTWVQTmF2NUJLcSsycFlRPT0mdmFsaWRtaW51dGVzPTImaWQ9NQ==
+http://edge.thunderbd.com:8081/roarzone/30/chunks.m3u8?nimblesessionid=8060508&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIyIDQ6NDQ6MjkgQU0maGFzaF92YWx1ZT02bjRRY0E2c2FpTzFrZFBHczVYcDVnPT0mdmFsaWRtaW51dGVzPTImaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla HD
 http://208.86.19.21/906.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla L2
