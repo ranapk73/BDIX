@@ -170,8 +170,9 @@ https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" , Sony Max 2
 http://208.86.19.21/730.stream/index.m3u8
+http://103.153.39.36:8000/play/a01s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" , Sony Max HD
-https://streamer-1.toffeelive.com/live/set_max_hd_576/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" , Zee Cinema HD
@@ -182,6 +183,7 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://208.86.19.21/701.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" , Star GolD HD
 http://208.86.19.21/717.stream/index.m3u8
+http://103.153.39.36:8000/play/a012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" , & Pictures SD
 http://208.86.19.21/705.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" , Colors Cineplex HD
