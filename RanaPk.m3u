@@ -282,11 +282,17 @@ http://j3.aminouras.xyz/live/978488877005/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_bein_sports_2.png" group-title="Football League", beiN Sports 2SD
 
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
-
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
 #EXTINF:-1 tvg-logo="Logo N/a" , beiN Sports HD
-http://cdn3.cyclingnews.live/hls/W1.m3u8
-#EXTINF:-1 tvg-logo="New Logo" , Bt Sports 2
+
+
+
+#EXTINF:1 tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
 https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:1 tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:1 tvg-logo="http://logo.ddnb.tn/logochanel/1830.png",BT Sport 3
+https://smart-tv.livedoomovie.com:4431/02_BTSPORTHD_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FUW8RnxZJfk/V9_NpoKmy0I/AAAAAAAAB-Y/ShI0NDzoq80-Sx9woVIuRXYNDNupdQ-yQCLcB/s320/Abu-Dhabi-Sports-1_o.jpg" , Ad Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-abu-dhabi-sports-2-5918.jpg" , Ad Sports 2
