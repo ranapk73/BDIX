@@ -119,7 +119,7 @@ http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , BTV World (BDIX6)
 http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" , DeepTo TV
-http://208.86.19.21/609.stream/index.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" , 10. Duronto TV
 http://103.70.140.27:8080/hls/duronto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" , 11. Duronto TV
@@ -508,7 +508,7 @@ http://content.discoveryftp.net/Movies/Dubbed/Others/2021/Kurup/Kurup%202021%201
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY0MGIzYzktMGRlZC00ODEzLTlkMTMtZTJiZjc0ZjRhMDI0XkEyXkFqcGdeQXVyOTg0MTM1OTU@._V1_.jpg" group-title="2022 Dhammaka Movies", Antim The Final Truth (2021)
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2021/Antim%20The%20Final%20Truth%20%282021%29%20Hindi%20%201080p%20WEB-DL/Antim.The.Final.Truth.2021.1080p.ZEE5.WEB-DL.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Y5ZWMwZDgtZDQxYy00Mjk0LThhY2YtMmU1MTRmMjVhMjRiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="2022 Dhammaka Movies", Jai Bhim (2021)
-http://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI%20DUBBED/%282021%29/Jai%20Bhim%20%282021%29%20720p%261080p/JAI%20BHIM%20%282021%29%20%20720p%20HDRiP%20-%20ESub.mkv
+https://cutt.ly/Jaibhim2021
 
 
 
