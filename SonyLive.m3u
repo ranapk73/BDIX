@@ -1,17 +1,16 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-id="001" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" , SONY LIVE 1080p
-https://sonydaime.akamaized.net/hls/live/2022320/DAI16V2/hdntl=exp=1642654119~acl=%2f*~id=855efdd2aa634dbfb316298ef2689f89-1641437271699-2011111138147984752~data=hdntl~hmac=6be02cd672ecfe2869df3edce5459cd156e8cf8188ead844a3ebff156a7cf425/master_3000.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" , SONY LIVE AUTO
+https://cutt.ly/SonYLiveByPK
 
 #EXTINF: -1 tvg-id="001" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" , SONY LIVE 720p
-https://sonydaime.akamaized.net/hls/live/2022320/DAI16V2/hdntl=exp=1642654119~acl=%2f*~id=855efdd2aa634dbfb316298ef2689f89-1641437271699-2011111138147984752~data=hdntl~hmac=6be02cd672ecfe2869df3edce5459cd156e8cf8188ead844a3ebff156a7cf425/master_1350.m3u8
+
 
 
 #EXTINF: -1 tvg-id="001" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" , SONY LIVE 480p
-https://sonydaime.akamaized.net/hls/live/2022320/DAI16V2/hdntl=exp=1642654119~acl=%2f*~id=855efdd2aa634dbfb316298ef2689f89-1641437271699-2011111138147984752~data=hdntl~hmac=6be02cd672ecfe2869df3edce5459cd156e8cf8188ead844a3ebff156a7cf425/master_950.m3u8
+
 
 #EXTINF: -1 tvg-id="001" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" , SONY LIVE 360p
-https://sonydaime.akamaized.net/hls/live/2022320/DAI16V2/hdntl=exp=1642654119~acl=%2f*~id=855efdd2aa634dbfb316298ef2689f89-1641437271699-2011111138147984752~data=hdntl~hmac=6be02cd672ecfe2869df3edce5459cd156e8cf8188ead844a3ebff156a7cf425/master_500.m3u8
+
 
 #EXTINF: -1 tvg-id="001" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" , SONY LIVE 240p
-https://sonydaime.akamaized.net/hls/live/2022320/DAI16V2/hdntl=exp=1642654119~acl=%2f*~id=855efdd2aa634dbfb316298ef2689f89-1641437271699-2011111138147984752~data=hdntl~hmac=6be02cd672ecfe2869df3edce5459cd156e8cf8188ead844a3ebff156a7cf425/master_350.m3u8
