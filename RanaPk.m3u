@@ -210,7 +210,7 @@ http://grats.sralm87.com:2082/Jamal-279_404805/bEKqfXj1/199073
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" , Jalsha Movies HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha
-http://edge.thunderbd.com:8081/roarzone/30/chunks.m3u8?nimblesessionid=8639585&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDIyIDM6Mjg6NDcgUE0maGFzaF92YWx1ZT14eW1CUG9XMXJlUjBoRHVLWVZCeU13PT0mdmFsaWRtaW51dGVzPTImaWQ9NQ==
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla HD
 https://nayeem-parvez.gq/zee5.php?c=zeebangla
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla L2
@@ -243,6 +243,8 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 https://236s.short.gy/DreamTV/PTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" , Sky Sports Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Fs1AU_HD.png/revision/latest/scale-to-width-down/250?cb=20170407112832" , FOX 501 HD
+https://cutt.ly/FOX501
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" , Sony Ten 1 HD
 http://208.86.19.21:80/726.stream/index.m3u8
 https://cutt.ly/Ten1
@@ -261,7 +263,7 @@ http://grats.sralm87.com:2082/Jamal-279_404805/bEKqfXj1/83999
 #EXTINF:-1 tvg-logo="https://www.cricexec.com/wp-content/uploads/2021/09/Willow-tv-logo.png" , Willow HD
 http://grats.sralm87.com:2082/Jamal-279_404805/bEKqfXj1/13141
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" , Astro Cricket
-http://208.86.19.21/707.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/android-chrome-192x192-1.png" , A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png" , Super Premier League
@@ -315,7 +317,7 @@ http://iptv.prosto.tv:7000/ch207/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" , Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" , Cartoon Network Hindi
-https://cutt.ly/Cartoon_n
+https://cutt.ly/CartoonS
 #EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" , Shemaroo Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" , Nick JR
@@ -333,7 +335,7 @@ http://45.126.83.51/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" , Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" , Pogo
-https://cutt.ly/PoGo
+https://cutt.ly/Pogo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" , Nick Hindi
 https://cutt.ly/NiCk_Hind
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" , Sonic Bangla
@@ -509,8 +511,10 @@ http://content.discoveryftp.net/Movies/Dubbed/Others/2021/Kurup/Kurup%202021%201
 http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2021/Antim%20The%20Final%20Truth%20%282021%29%20Hindi%20%201080p%20WEB-DL/Antim.The.Final.Truth.2021.1080p.ZEE5.WEB-DL.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Y5ZWMwZDgtZDQxYy00Mjk0LThhY2YtMmU1MTRmMjVhMjRiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="2022 Dhammaka Movies", Jai Bhim (2021)
 https://cutt.ly/Jaibhim2021
-
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU1OTYzYzAtMDcyOS00MDI0LTg2ZmQtYTEyMDdmMmQ0MjY5XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpgpg" group-title="2022 Dhammaka Movies", MASTER (2021)
+https://cutt.ly/MasterTamil
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI2MDk2NGEtNDcwZC00NmU5LTk5NmMtODE1NDRlMDFmODU2XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg" group-title="2022 Dhammaka Movies", Atrangi Re (2021)
+https://cutt.ly/Artangire202
 
 
 
