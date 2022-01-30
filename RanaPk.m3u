@@ -282,7 +282,7 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.toiimg.com/photo/63040108.cms" group-title="PSL LIVE(2022)", PSL LIVE
 https://ranapk.tk/PSL_LIVE_BY_RANAPK.M3U8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_bein_sports_2.png" group-title="Football League", beiN Sports 2SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_bein_sports_2.png" group-title="Football League",
 
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
@@ -513,9 +513,10 @@ http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2021/Antim%20The%20Final%20Truth%2
 https://cutt.ly/Jaibhim2021
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU1OTYzYzAtMDcyOS00MDI0LTg2ZmQtYTEyMDdmMmQ0MjY5XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpgpg" group-title="2022 Dhammaka Movies", MASTER (2021)
 https://cutt.ly/MasterTamil
-#EXTINF:-1 tvg-id= "1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI2MDk2NGEtNDcwZC00NmU5LTk5NmMtODE1NDRlMDFmODU2XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg" group-title="2022 Dhammaka Movies", Atrangi Re (2021)
-Https://
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI2MDk2NGEtNDcwZC00NmU5LTk5NmMtODE1NDRlMDFmODU2XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg" group-title="2022 Dhammaka Movies", Atrangi Re (2021)
 https://cutt.ly/Artangire202
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , 1. BTV World
+http://103.106.2.149:13456/btv_world.m3u8
 
 
 
