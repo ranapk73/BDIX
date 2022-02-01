@@ -186,6 +186,8 @@ http://208.86.19.21/717.stream/index.m3u8
 http://103.153.39.36:8000/play/a012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" , & Pictures SD
 https://nayeem-parvez.gq/zee5.php?c=tvpictureshd
+#EXTINF:-1 tvg-logo="nnn" , & Explore HD
+https://ranapk.tk/&_Explore.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" , Colors Cineplex HD
 https://cutt.ly/ColorsCine
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" , Sony Pal
