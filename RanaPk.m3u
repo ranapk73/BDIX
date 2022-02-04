@@ -107,7 +107,7 @@ http://103.70.140.27:8080/hls/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 2
 http://103.78.255.178:8080/gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 3
-
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 4
 http://103.159.4.38:8080/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 5
@@ -208,13 +208,13 @@ https://ranapk.tk/Star_Bharat_Pk
 #EXTINF:-1 tvg-logo="New Logo" , BBo HD
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha HD
-http://grats.sralm87.com:2082/Jamal-279_404805/bEKqfXj1/199073
+https://ranapk.tk/Pk/Star_JalshaHD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" , Jalsha Movies HD
 http://grats.sralm87.com:2082/Jamal-279_404805/bEKqfXj1/198917
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" , Star Jalsha
 https://ranapk.tk/Star_Jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla HD
-https://nayeem-parvez.gq/zee5.php?c=zeebangla
+https://ranapk.tk/Zee_Bangla_HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla L2
 http://103.159.4.38:8080/IN-BANGLA-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" , Sun Bangla
@@ -240,9 +240,9 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/39/c7/6639c7f00ca2acb1e2fd8b61cb11cfb4.jpg" , jio Cricket HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" , Ten Cricket
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" , PTV Sports
 https://ranapk.tk/PTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" , PTV Sports
+https://ranapk.tk/PK/PTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" , Sky Sports Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Fs1AU_HD.png/revision/latest/scale-to-width-down/250?cb=20170407112832" , FOX 501 HD
