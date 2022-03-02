@@ -239,6 +239,8 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/39/c7/6639c7f00ca2acb1e2fd8b61cb11cfb4.jpg" , jio Cricket HD
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_451106001645510103.png" , BD VS AFG BDIX
+https://ranapk.tk/Sports_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" , Ten Cricket
 https://ranapk.tk/PTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" , PTV Sports
