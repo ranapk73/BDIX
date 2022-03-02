@@ -239,8 +239,6 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/39/c7/6639c7f00ca2acb1e2fd8b61cb11cfb4.jpg" , jio Cricket HD
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_451106001645510103.png" , BD VS AFG BDIX
-https://ranapk.tk/Sports_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" , Ten Cricket
 https://ranapk.tk/PTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" , PTV Sports
@@ -248,7 +246,7 @@ https://ranapk.tk/PK/PTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" , Sky Sports Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Fs1AU_HD.png/revision/latest/scale-to-width-down/250?cb=20170407112832" , FOX 501 HD
-https://cutt.ly/FOX501
+https://ranapk.tk/Fox-501HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" , Sony Ten 1 HD
 https://ranapk.tk/Ten_1_HDpk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" , Sony Ten 2 HD
@@ -289,6 +287,8 @@ https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 https://ranapk.tk/PSL_LIVE_BY_RANAPK.M3U8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/128/10/10552.png" group-title="CRICKET LIVE(2022)", CHANNEL- 1
 https://ranapk.tk/CRICKET-1.m3u8
+#EXTINF:-1 tvg-logo="https://m.imgur.com/a/JESDwib" group-title="CRICKET LIVE(2022)" , BD VS AFG BDIX
+https://ranapk.tk/Sports_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
 #EXTINF:-1 tvg-logo="Logo N/a" , beiN Sports HD
