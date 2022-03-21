@@ -187,11 +187,14 @@ https://cutt.ly/ZeeBolly
 http://208.86.19.21/717.stream/index.m3u8
 http://103.153.39.36:8000/play/a012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" , & Pictures HD
-https://ranapk.tk/And_Pictures_HD.m3u8|user-agent="techiesneh"
+#EXTVLCOPT:http-user-agent="techiesneh"
+https://ranapk.tk/And_Pictures_HD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5caAM4o.jpg" , & Explore HD
-https://ranapk.tk/&_Explore.m3u8|user-agent="techiesneh"
+#EXTVLCOPT:http-user-agent="techiesneh"
+https://ranapk.tk/&_Explore.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pov9Jvg.jpg" , & TV HD
-https://ranapk.tk/AndTv_Hindi.m3u8|user-agent="techiesneh"
+#EXTVLCOPT:http-user-agent="techiesneh"
+https://ranapk.tk/AndTv_Hindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" , Colors Cineplex HD
 https://ranapk.tk/Colors_Cineplex.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zMgCMcI.jpg" , Sony Pal
@@ -219,9 +222,11 @@ https://ranapk.tk/Star_Jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla
 https://ranapk.tk/Zee_Bangla_HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla HD
-https://ranapk.tk/PK/ZEE-BANGLA-HD.m3u8|user-agent="techiesneh"
+#EXTVLCOPT:http-user-agent="techiesneh"
+https://ranapk.tk/PK/ZEE-BANGLA-HD.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeBanglaCinema.in.png" , Zee Bangla Cinema
-https://ranapk.tk/Zee_Bangla_Cinema.m3u8|user-agent="techiesneh"
+#EXTVLCOPT:http-user-agent="techiesneh"
+https://ranapk.tk/Zee_Bangla_Cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" , Sun Bangla
 https://ranapk.tk/Sun_BangLa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" , Sony Aath
