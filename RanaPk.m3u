@@ -63,7 +63,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESWXan9.png" , ATN Islamic
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" , ATN News
-https://rhridoy136.shortcm.li/atnnews.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" , NRB TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://jagobd.com/wp-content/uploads/2020/05/Cumilla24.jpeg" , Cumilla 24
@@ -297,8 +297,8 @@ https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 https://ranapk.tk/PSL_LIVE_BY_RANAPK.M3U8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/128/10/10552.png" group-title="CRICKET LIVE(2022)", CHANNEL- 1
 https://ranapk.tk/CRICKET-1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/q6ZYIhh.png" group-title="CRICKET LIVE(2022)" , BD VS AFG BDIX
-EXTVLCOPT:http-user-agent=Toffee/1.1.8 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://imgur.com/q6ZYIhh.png" group-title="CRICKET LIVE(2022)" , BD VS SA BDIX
+#EXTVLCOPT:http-user-agent=Toffee/1.1.8 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4
 https://ranapk.tk/Sports_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
