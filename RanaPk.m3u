@@ -104,6 +104,7 @@ https://yuppcatchup.akamaized.net/preview/rupashibangala/1800.m3u8?hdnts=st=1612
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 1
 http://103.70.140.27:8080/hls/gtv.m3u8
+http://ranapk.myftp.org:8089/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 2
 http://103.78.255.178:8080/gtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" , Gazi TV 3
@@ -300,7 +301,7 @@ https://ranapk.tk/CRICKET-1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/q6ZYIhh.png" group-title="CRICKET LIVE(2022)" , BD VS SA BDIX
 #EXTVLCOPT:http-user-agent=Toffee/1.1.8 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4
 https://ranapk.tk/Sports_1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/q6ZYIhh.png" group-title="CRICKET LIVE(2022)" , IPL LIVE BDIX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tML3zYg/mobile-logo-608959001648229777.png" group-title="CRICKET LIVE(2022)" , IPL LIVE BDIX
 #EXTVLCOPT:http-user-agent=Toffee/1.1.8 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4
 https://ranapk.tk/BD-Sports-2.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
