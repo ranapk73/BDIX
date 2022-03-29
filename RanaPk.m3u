@@ -128,7 +128,7 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" , 12. Duronto TV (BDCast)
 https://shark2-3232.bd-cast.net/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" ,  Ekattor TV
-#EXTVLCOPT:http-user-agent=B player
+#EXTVLCOPT:http-user-agent=B Player
 https://ranapk.tk/Bangla/71TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" ,  Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
