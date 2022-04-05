@@ -300,7 +300,7 @@ https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" , beiN Sports 2
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFYxt84/Tata-IPL-logo-0.jpg" group-title="CRICKET LIVE(2022)", IPL LIVE SD
-https://ranapk.tk/IPL_BY_RANAPK.m3u8
+http://ranapk-bein.ddns.net/star7live/LZENQZuGKM/7892
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/128/10/10552.png" group-title="CRICKET LIVE(2022)", CHANNEL- 1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 https://ranapk.tk/CRICKET-1.m3u8
