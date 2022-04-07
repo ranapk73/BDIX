@@ -299,17 +299,22 @@ http://cro.hockeynews.club/live/1/chunks.m3u8?
 https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" , beiN Sports 2
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mFYxt84/Tata-IPL-logo-0.jpg" group-title="CRICKET LIVE(2022)", IPL LIVE SD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFYxt84/Tata-IPL-logo-0.jpg" group-title="⭑⭑★✪ Cricket Live 2022 ✪★⭑⭑", ＩＰＬ LIVE
 http://ranapk-bein.ddns.net/star7live/LZENQZuGKM/7892
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/128/10/10552.png" group-title="CRICKET LIVE(2022)", CHANNEL- 1
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/128/10/10552.png" group-title="⭑⭑★✪ Cricket Live 2022 ✪★⭑⭑", 𝐂𝐫𝐢𝐜𝐤𝐞𝐭 - 1
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 https://ranapk.tk/CRICKET-1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/q6ZYIhh.png" group-title="CRICKET LIVE(2022)" , BD VS SA BDIX
+#EXTINF:-1 tvg-logo="https://imgur.com/q6ZYIhh.png" group-title="⭑⭑★✪ Cricket Live 2022 ✪★⭑⭑" , BD VS SA BDIX
 #EXTVLCOPT:http-user-agent=Toffee/1.1.8 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4
 https://ranapk.tk/Sports_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tML3zYg/mobile-logo-608959001648229777.png" group-title="CRICKET LIVE(2022)" , IPL LIVE BDIX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tML3zYg/mobile-logo-608959001648229777.png" group-title="⭑⭑★✪ Cricket Live 2022 ✪★⭑⭑" , IPL LIVE BDIX
 #EXTVLCOPT:http-user-agent=Toffee/1.1.8 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4
 https://ranapk.tk/BD-Sports-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vyYSz5/Fotball-Livee.jpg" group-title="🌸🌸 Football Live Match  🌸🌸
+https://ranapk.ml/TG@ranapk73-FOTBALL_01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vyYSz5/Fotball-Livee.jpg" group-title="🌸🌸 Football Live Match  🌸🌸
+https://ranapk.ml/TG@ranapk73-FOTBALL_02.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
 #EXTINF:-1 tvg-logo="Logo N/a" , beiN Sports HD
@@ -385,24 +390,6 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/master_1564.m3u8
 https://live.hungama.com/linear/kadak-hits/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="New Logo" , Pop Pataka Music
 https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IpKuSbU.png" , AXN
-http://210.210.155.35/uq2663/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" , Star World
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" , Star Movies
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" , HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" , MAQ TV
-http://str24.l9574.com/517.stream/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" , Nobodip TV
-http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,  52 TV
-http://str24.l9574.com/503.stream/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" , CTVN Akd Plus
-http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:ctvn_akd_plus_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
-#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" , Nat Geo UAE
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" , Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" , Zee Smile
@@ -421,6 +408,25 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png" , M20 Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IpKuSbU.png" , AXN
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" , Star World
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" , Star Movies
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" , HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" , MAQ TV
+http://str24.l9574.com/517.stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" , Nobodip TV
+http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" ,  52 TV
+http://str24.l9574.com/503.stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" , CTVN Akd Plus
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:ctvn_akd_plus_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
+#EXTINF:-1 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" , Nat Geo UAE
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/86jLO7q.png" , Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gcdn.pbrd.co/images/Ed72iry39VIg.png" , Animal Planet Hindi
@@ -545,9 +551,9 @@ https://cutt.ly/Artangire202
 
 
 
-
 _________RANAPK LAST Update_______
-#EXTINF:-1 tvg-logo="xxx" group-title="M3U FILE BY RANAPK",
+#EXTINF:-1 tvg-logo="xxx" group-title="░▒▓ M3U FILE BY RANAPK ▓▒░",
+#EXTINF:-1 tvg-logo="xxx" group-title="꧁⭑⭒ Telegram's Join @ranapk73 ⭑⭒꧂",
 
 
 👉 ফাইল চুরি করলে তুই একটা মাদারচোদ! 
