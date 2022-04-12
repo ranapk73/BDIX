@@ -295,9 +295,11 @@ http://cro.hockeynews.club/live/1/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vowBrPg.png" , Super Sports 5
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" , beiN Sports 1
-https://smart-tv.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" , beiN Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" , beiN Sports TH 1
+#EXTVLCOPT:http-referer=www.movie87hd.com/r?=RanaPk
+https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" , beiN Sports TH 2
+#EXTVLCOPT:http-referer=www.movie87hd.com/r?=RanaPk
 https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFYxt84/Tata-IPL-logo-0.jpg" group-title="⭑⭑★✪ Cricket Live 2022 ✪★⭑⭑", ＩＰＬ LIVE
@@ -316,7 +318,7 @@ https://ranapk.ml/TG@ranapk73-FOTBALL_01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vyYSz5/Fotball-Livee.jpg" group-title="🌸🌸 Football Live Match  🌸🌸" , ꜰᴏᴏᴛʙᴀʟʟ 𝗟𝗶𝘃𝗲 - 𝟮
 https://ranapk.ml/TG@ranapk73-FOTBALL_02.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" , beiN Premium 1
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8?
+
 #EXTINF:-1 tvg-logo="Logo N/a" , beiN Sports HD
 
 
