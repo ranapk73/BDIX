@@ -297,13 +297,16 @@ http://cro.hockeynews.club/live/1/chunks.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" , beiN Sports TH 1
 #EXTVLCOPT:http-referer=www.movie87hd.com/r?=RanaPk
-https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8
+https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" , beiN Sports TH 2
 #EXTVLCOPT:http-referer=www.movie87hd.com/r?=RanaPk
-https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
+https://smart-tv.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8|user-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFYxt84/Tata-IPL-logo-0.jpg" group-title="⭑⭑★✪ Cricket Live 2022 ✪★⭑⭑", ＩＰＬ LIVE
 http://ranapk-bein.gotdns.ch/star7live/LZENQZuGKM/7892
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFYxt84/Tata-IPL-logo-0.jpg" group-title="⭑⭑★✪ Cricket Live 2022 ✪★⭑⭑", ＩＰＬ LIVE HINDI
+#EXTVLCOPT:https://noob4cast.com/?ranapk
+https://ranapk.ml/TaTa-Ipl-By-RanaPk-SP1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/128/10/10552.png" group-title="⭑⭑★✪ Cricket Live 2022 ✪★⭑⭑", 𝐂𝐫𝐢𝐜𝐤𝐞𝐭 - 𝟭
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 https://ranapk.tk/CRICKET-1.m3u8
