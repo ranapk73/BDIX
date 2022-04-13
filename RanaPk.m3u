@@ -140,9 +140,9 @@ https://live.sonyplex.com/sonyplex/N-Tv.stream/index.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/shangsadbangladesh.jpg" , Sangsad Bangladesh (BDIX6)
 http://103.106.2.149:13456/sangsad.m3u8
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" , T sports HD (BDIX1)
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" , T sports HD (BDIX1)
 https://ranapk.ml/T-sports.m3u8
-#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" , T sports HD (BDIX2)
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" , T sports HD (BDIX2)
 http://ranapk.ddnsking.com/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg" , T sports (BDIX3)
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
