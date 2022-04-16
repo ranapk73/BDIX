@@ -192,13 +192,10 @@ http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 http://103.153.39.36:8000/play/a012
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" , & Pictures HD
-#EXTVLCOPT:http-user-agent="techiesneh"
 https://ranapk.tk/And_Pictures_HD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5caAM4o.jpg" , & Explore HD
-#EXTVLCOPT:http-user-agent="techiesneh"
 https://ranapk.tk/&_Explore.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Pov9Jvg.jpg" , & TV HD
-#EXTVLCOPT:http-user-agent="techiesneh"
 https://ranapk.tk/AndTv_Hindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" , Colors Cineplex HD
 https://ranapk.tk/Colors_Cineplex.m3u8
@@ -228,7 +225,6 @@ http://rana-ext.ddns.net:8080/live/outputofflinechecker09/AiPh5engoo2AinahKeeZoh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla
 https://ranapk.tk/Zee_Bangla_HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" , Zee Bangla HD
-#EXTVLCOPT:http-user-agent="techiesneh"
 https://ranapk.tk/PK/ZEE-BANGLA-HD.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeBanglaCinema.in.png" , Zee Bangla Cinema
 #EXTVLCOPT:http-user-agent="techiesneh"
