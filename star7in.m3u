@@ -7,6 +7,18 @@ http://31.172.87.31:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED
 
 http://31.172.87.31:2200/R-EX/FHD_NICK_-in/tracks-v1a1/mono.m3u8?token=RED_dxPYoJ1KjtIgacQFVE0U9Q%3D%3D%2C1641804427.7609871579|User-Agent=REDLINECLIENT
 
+#EXTINF: -1 group-title="𝗥𝗮𝗻𝗮𝗣𝗸 | 𝗦𝘁𝗮𝗿𝟳 𝗜𝗻𝗱𝗶𝗮𝗻 𝗙𝘂𝗹𝗹", Hungama TV Kids 
+
+http://31.172.87.31:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=RED_dxPYoJ1KjtIgacQFVE0U9Q%3D%3D%2C1641804427.7609871579|User-Agent=REDLINECLIENT
+
+#EXTINF: -1 group-title="𝗥𝗮𝗻𝗮𝗣𝗸 | 𝗦𝘁𝗮𝗿𝟳 𝗜𝗻𝗱𝗶𝗮𝗻 𝗙𝘂𝗹𝗹", Disney Channel Hindi
+
+http://31.172.87.31:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=RED_dxPYoJ1KjtIgacQFVE0U9Q%3D%3D%2C1641804427.7609871579|User-Agent=REDLINECLIENT
+
+#EXTINF: -1 group-title="𝗥𝗮𝗻𝗮𝗣𝗸 | 𝗦𝘁𝗮𝗿𝟳 𝗜𝗻𝗱𝗶𝗮𝗻 𝗙𝘂𝗹𝗹", Cartoon Network Hindi
+
+
+
 #EXTINF: -1 group-title="𝗥𝗮𝗻𝗮𝗣𝗸 | 𝗦𝘁𝗮𝗿𝟳 𝗜𝗻𝗱𝗶𝗮𝗻 𝗙𝘂𝗹𝗹", Music Active
 
 http://31.172.87.31:2200/R-EX/MUSIC_ACTIVE_-in/tracks-v1a1/mono.m3u8?token=RED_dxPYoJ1KjtIgacQFVE0U9Q%3D%3D%2C1641804427.7609871579|User-Agent=REDLINECLIENT
