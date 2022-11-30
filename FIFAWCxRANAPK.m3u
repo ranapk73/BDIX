@@ -13,6 +13,18 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
 #EXTINF: -1 tvg-id="ranapk" tvg-logo="https://rana-pkz.cf/fifaxranapk.jpeg" group-title="⤹★ FIFAxRANAPK ★⤸", FIFA 720p { B D I X }
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 
+#EXTINF: -1 tvg-id="ranapk" tvg-logo="https://rana-pkz.cf/fifaxranapk.jpeg" group-title="⤹★ FIFAxRANAPK ★⤸", FIFA M2 - 240p { B D I X }
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_360.m3u8
+
+#EXTINF: -1 tvg-id="ranapk" tvg-logo="https://rana-pkz.cf/fifaxranapk.jpeg" group-title="⤹★ FIFAxRANAPK ★⤸", FIFA M2 - 360p { B D I X }
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_640.m3u8
+
+#EXTINF: -1 tvg-id="ranapk" tvg-logo="https://rana-pkz.cf/fifaxranapk.jpeg" group-title="⤹★ FIFAxRANAPK ★⤸", FIFA M2 - 480p { B D I X }
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_850.m3u8
+
+#EXTINF: -1 tvg-id="ranapk" tvg-logo="https://rana-pkz.cf/fifaxranapk.jpeg" group-title="⤹★ FIFAxRANAPK ★⤸", FIFA M2 - 720p { B D I X }
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
+
 #EXTINF: -1 tvg-id="ranapk" tvg-logo="https://rana-pkz.cf/fifaxranapk.jpeg" group-title="⤹★ FIFAxRANAPK ★⤸", FIFA LIVE 1
 https://ranapk.ml/TG@ranapk73-FOTBALL_01.m3u8
 
